@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/titanic-cover.png" alt="Illustration of RMS Titanic sailing across the North Atlantic at dusk" width="100%">
+  <img src="assets/titanic-cover.jpg" alt="Titanic (1997) cover image" width="100%">
 </p>
 
 <h1 align="center">Titanic · Passenger Survival Analysis</h1>
@@ -164,4 +164,4 @@ This deliverable covers exploratory data analysis. No predictive accuracy, causa
 
 **Nour Reda** · [LinkedIn](https://www.linkedin.com/in/nour-reda-349b43321/) · [Email](mailto:nourreda14ou@gmail.com)
 
-<sub>The cover is an AI-generated illustration, not an archival photograph. All analytical charts are generated directly from the documented input data. See [asset notes](assets/ATTRIBUTION.md).</sub>
+<sub>The cover image was supplied by the project owner (Titanic, 1997). All analytical charts are generated directly from the documented input data. See [asset notes](assets/ATTRIBUTION.md).</sub>

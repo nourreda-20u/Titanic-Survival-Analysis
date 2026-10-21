@@ -1,0 +1,11 @@
+,Invalid_Count
+Invalid Survived,0
+Invalid Pclass,0
+Invalid Sex,0
+Invalid known Embarked,0
+Age outside 0 to 120,0
+Negative Fare,0
+Negative SibSp,0
+Negative Parch,0
+Non-integer SibSp,0
+Non-integer Parch,0
